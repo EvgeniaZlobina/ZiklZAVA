@@ -1,2 +1,4 @@
-package ru.netology;public interface CalcService {
+package ru.netology;
+
+public interface CalcService {
 }
